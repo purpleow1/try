@@ -4,3 +4,6 @@ h1 {
 p {
 	color: green;
 }
+img {
+	border: 2px solid yellow;
+}
